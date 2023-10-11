@@ -1,5 +1,5 @@
 import bpy
-from io_scene_gltf2.blender.exp import gltf2_blender_gather_materials
+from io_scene_gltf2.blender.exp.material import gltf2_blender_gather_materials
 from io_scene_gltf2.blender.imp.gltf2_blender_material import BlenderMaterial
 
 bl_info = {
