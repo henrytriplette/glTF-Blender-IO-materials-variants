@@ -4,13 +4,13 @@ from io_scene_gltf2.blender.imp.gltf2_blender_material import BlenderMaterial
 
 bl_info = {
     "name" : "glTF KHR_materials_variants IO",
-    "author" : "Takahiro Aoyagi",
+    "author" : "Henry Triplette",
     "description" : "Addon for glTF KHR_materials_variants extension",
-    "blender" : (3, 1, 0),
-    "version" : (0, 0, 3),
-    "location" : "",
-    "wiki_url": "https://github.com/takahirox/glTF-Blender-IO-materials-variants",
-    "tracker_url": "https://github.com/takahirox/glTF-Blender-IO-materials-variants/issues",
+    "blender" : (4, 3, 0),
+    "version" : (0, 0, 4),
+    'location': 'File > Export > glTF 2.0',
+    "wiki_url": "https://github.com/henrytriplette/glTF-Blender-IO-materials-variants",
+    "tracker_url": "https://github.com/henrytriplette/glTF-Blender-IO-materials-variants/issues",
     "support": "COMMUNITY",
     "warning" : "",
     "category" : "Generic"
